@@ -1,0 +1,12 @@
+body {
+    background-color:transparent;
+}
+ #parallax-image {
+    background-image: url(image/pic@.jpeg);
+    background-size: cover;
+    text-align: center;
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
